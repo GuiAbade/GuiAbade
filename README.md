@@ -1,5 +1,5 @@
 
-# Hi, I'm Guilherme Abade  👋
+Seja bem-vindo(a) ao meu GitHub 👋
 
  [📚](https://emojipedia.org/books/)**Atualmente estudante de Ciência da Computação (UNIFACS), estudando programação, aprendendo novas tecnologias assim me desenvolvendo cada vez mais no estudo de novas tecnologias. Me adicione para acompanhar meu desenvolvimento!**
 
