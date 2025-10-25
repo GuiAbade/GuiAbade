@@ -31,5 +31,6 @@
 
 * LinkedIn: [Guilherme Abade](#)
 * Email: **[abade.guim13@gmail.com](mailto:seuemail@email.com)**
+* whatsapp: **[(74) 99194-3447](mailto:seuemail@email.com)**
 
 Obrigado por visitar! Fique à vontade para explorar os repositórios e acompanhar minha evolução 🚀
