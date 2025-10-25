@@ -1,13 +1,35 @@
 
-Seja bem-vindo(a) ao meu GitHub 👋
+# Olá, seja bem-vindo(a) ao meu GitHub 👋
 
- [📚](https://emojipedia.org/books/)**Formado Ciência da Computação (UNIFACS), estudando programação, aprendendo novas tecnologias assim me desenvolvendo cada vez mais no estudo de novas tecnologias. Me adicione para acompanhar meu desenvolvimento!**
+🎓 **Formado em Ciência da Computação pela UNIFACS**, com foco atual em **Análise de Dados e Desenvolvimento com Python**.
 
- [📚](https://emojipedia.org/books/)Estou dedicando meu tempo ao  **desenvolvimento Front-end com foco em ReactJs**, realizando cursos e bootcamps para aprimorar os conhecimentos na área e poder aplicar em novos projetos. Sou apaixonado por aprender novas tecnologias e poder criar produtos significativos, responsivos e acessíveis de alto desempenho.
+📊 Atualmente estou me aprofundando na área de **Data Science, análise de dados e automação**, utilizando principalmente **Python** para coleta, tratamento e visualização de dados.
 
--   👨‍💻  Meu estudo está direcionado em algumas tecnologias como: **Python, HTML, CSS, JavaScript, MySql,** utilizando a ferramentas como **Android Studio e VSCode,** desenvolvendo e aprimorando nas tecnologias informadas.
--   📫  Como  **[entrar](mailto:abade.guim13@gmail.com)**  em contato comigo  **[Guilherme Abade](mailto:abade.guim13@gmail.com)**
+💡 Tenho grande interesse em **resolução de problemas através de dados**, criação de **dashboards**, **análises exploratórias** e projetos que envolvem **dados reais do mundo corporativo**.
 
-**Onde me encontrar  👇**
--  [🌍](https://emojipedia.org/globe-showing-europe-africa/)  Como  **[me encontrar](mailto:https://www.linkedin.com/in/guiabade/)** 
+---
 
+### 🚀 Tecnologias e Ferramentas
+
+* **Linguagens:** Python, SQL, JavaScript
+* **Análise de Dados:** Pandas, NumPy, Matplotlib
+* **Ferramentas:** VSCode, Data Studio, Excel, Git & GitHub
+* **Outros:** HTML, CSS, React (nível introdutório)
+
+---
+
+### 📂 O que você encontrará por aqui
+
+* Projetos de **análise de dados com Python e SQL**
+* Estudos e práticas de **Data Science / Data Analytics**
+* Pequenas **automação de tarefas com Python**
+* Projetos focados em **resolução de problemas reais**
+
+---
+
+### 📫 Como entrar em contato
+
+* LinkedIn: [Seu Nome](#)
+* Email: **[seuemail@email.com](mailto:seuemail@email.com)**
+
+Obrigado por visitar! Fique à vontade para explorar os repositórios e acompanhar minha evolução 🚀
