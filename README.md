@@ -29,7 +29,7 @@
 
 ### 📫 Como entrar em contato
 
-* LinkedIn: [Seu Nome](#)
-* Email: **[seuemail@email.com](mailto:seuemail@email.com)**
+* LinkedIn: [Guilherme Abade](#)
+* Email: **[abade.guim13@gmail.com](mailto:seuemail@email.com)**
 
 Obrigado por visitar! Fique à vontade para explorar os repositórios e acompanhar minha evolução 🚀
